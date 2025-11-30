@@ -1,0 +1,15 @@
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\bin\Debug\net9.0\E-Shop.exe
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\bin\Debug\net9.0\E-Shop.deps.json
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\bin\Debug\net9.0\E-Shop.runtimeconfig.json
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\bin\Debug\net9.0\E-Shop.dll
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\bin\Debug\net9.0\E-Shop.pdb
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.AssemblyInfo.cs
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.sourcelink.json
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.dll
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\refint\E-Shop.dll
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.pdb
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\E-Shop.genruntimeconfig.cache
+C:\Users\Jean\Desktop\POO\E-Shop\E-Shop\obj\Debug\net9.0\ref\E-Shop.dll
