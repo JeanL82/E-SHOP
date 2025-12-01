@@ -349,7 +349,7 @@
             Customer.RemoveFromCart(item, quantity);
         }
 
-               private decimal ReadPositiveDecimal(string prompt)
+        private decimal ReadPositiveDecimal(string prompt)
         {
             while (true)
             {
